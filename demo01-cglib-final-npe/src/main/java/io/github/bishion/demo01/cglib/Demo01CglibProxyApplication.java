@@ -1,4 +1,4 @@
-package io.github.bishion.demo.swagger;
+package io.github.bishion.demo01.cglib;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

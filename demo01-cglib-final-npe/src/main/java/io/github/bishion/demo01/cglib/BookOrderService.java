@@ -1,4 +1,4 @@
-package io.github.bishion.demo.swagger;
+package io.github.bishion.demo01.cglib;
 
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
