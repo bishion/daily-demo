@@ -1,0 +1,5 @@
+swagger:
+  basePackage: io.github.bishion.demo
+  title: demo01 cglib final npe demo
+  description: cglib 对于 final 方法的 npe 示例
+  version: 1.0-SNAPSHOT
